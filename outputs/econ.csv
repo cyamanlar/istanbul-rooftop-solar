@@ -1,0 +1,7 @@
+capex_case,capex_TL,tariff,price_TL_kWh,E_yr_kWh,saving_TL_yr,payback_yr
+low,150000,low tier,3.238,6420,20789,7.2
+low,150000,high tier,4.857,6420,31183,4.8
+mid,180000,low tier,3.238,6420,20789,8.7
+mid,180000,high tier,4.857,6420,31183,5.8
+high,210000,low tier,3.238,6420,20789,10.1
+high,210000,high tier,4.857,6420,31183,6.7

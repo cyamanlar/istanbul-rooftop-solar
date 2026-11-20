@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><phyphox version="1.14">
+  <icon format="base64">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</icon>
+  <link label="Wiki">http://phyphox.org/wiki/index.php?title=Sensor:_Light</link>
+  <translations>
+    <translation locale="en">
+      <title>Light</title>
+      <category>Raw Sensors</category>
+      <description>Get raw data from the light sensor.</description>
+      <string original="Info">
+                Note: On some devices the light sensor is only updated when there is a coarse change of illuminance.
+            </string>
+    </translation>
+    <translation locale="de">
+      <title>Licht</title>
+      <category>Sensoren</category>
+      <description>Rohdaten des Lichtsensors auslesen.</description>
+      <string original="Illuminance">Beleuchtungsstärke</string>
+      <string original="Simple">Einfach</string>
+      <string original="Info">
+                Auf manchen Geräten wird der Wert des Lichtsensors nur aktualisiert, wenn sich eine große Änderung der Beleuchtungsstärke ergibt.
+            </string>
+    </translation>
+    <translation locale="cs">
+      <title>Světlo</title>
+      <category>Senzory</category>
+      <description>Zobrazí neupravená data ze senzoru osvětlení.</description>
+      <string original="Graph">Graf</string>
+      <string original="Illuminance">Osvětlení</string>
+      <string original="Simple">Stručně</string>
+      <string original="Info">
+                Poznámka: Na některých zařízeních světelný senzor obnovuje údaje, pouze když dojde k výrazné změně osvětlení.
+            </string>
+    </translation>
+    <translation locale="pl">
+      <title>Światło</title>
+      <category>Surowe dane</category>
+      <description>Uzyskaj surowe dane z czujnika światła.</description>
+      <string original="Graph">Wykres</string>
+      <string original="Illuminance">Natężenie oświetlenia</string>
+      <string original="Info">
+                Komentarz: W niektórych urządzeniach status czujnika światła jest zapisywany jedynie w przypadku znacznych zmian natężenia światła padającego na czujnik.
+            </string>
+      <string original="Simple">Próbka</string>
+    </translation>
+    <translation locale="nl">
+      <title>Licht</title>
+      <category>Onbewerkte sensoren</category>
+      <description>Verkrijg onbewerkte data van de lichtsensor.</description>
+      <string original="Graph">Grafiek</string>
+      <string original="Illuminance">Verlichting</string>
+      <string original="Info">
+                Opmerking: op sommige apparaten wordt de lichtsensor alleen gereset als de verlichtingssterkte sterk verandert.
+            </string>
+      <string original="Simple">Eenvoudig</string>
+    </translation>
+    <translation locale="ru">
+      <title>Свет</title>
+      <category>Исходные датчики</category>
+      <description>Получите исходные данные с датчика освещенности.</description>
+      <string original="Graph">График</string>
+      <string original="Illuminance">Освещённость</string>
+      <string original="Info">
+                Примечание: на некоторых устройствах датчик освещенности реагирует только на сильное изменение светового потока.
+            </string>
+      <string original="Simple">Значение</string>
+    </translation>
+    <translation locale="it">
+      <title>Luce</title>
+      <category>Sensori</category>
+      <description>Legge i dati dal sensore di luminosità.</description>
+      <string original="Graph">Grafico</string>
+      <string original="Illuminance">Illuminamento</string>
+      <string original="Info">
+                Nota: su alcuni dispositivi il sensore di luminosità si aggiorna soltanto quando si verifica una considerevole variazione di illuminazione.
+            </string>
+      <string original="Simple">Valori</string>
+    </translation>
+    <translation locale="el">
+      <title>Φως</title>
+      <category>Δεδομένα Αισθητήρων</category>
+      <description>Πάρτε τις καταγραφές του αισθητήρα φωτός.</description>
+      <string original="Graph">Γράφημα</string>
+      <string original="Illuminance">Φωτεινότητα</string>
+      <string original="Info">
+                Παρατήρηση:  Σε μερικές συσκευές ο αισθητήρας φωτός αντιλαμβάνεται μόνο έντονες διαφορές στη φωτεινότητα.
+            </string>
+      <string original="Simple">Απλό</string>
+    </translation>
+    <translation locale="ja">
+      <title>光</title>
+      <category>センサー出力</category>
+      <description>光センサ出力の時系列データの取得．</description>
+      <string original="Graph">グラフ</string>
+      <string original="Illuminance">照度</string>
+      <string original="Info">
+                注意:いくつかのデバイスの光センサーは照度の大きな変化がある際にのみ更新されます．
+            </string>
+      <string original="Simple">シンプル</string>
+    </translation>
+    <translation locale="pt">
+      <title>Luz</title>
+      <category>Sensores</category>
+      <description>Obtenha o dado puro do sensor de luz.</description>
+      <string original="Graph">Gráfico</string>
+      <string original="Illuminance">Iluminância</string>
+      <string original="Info">
+                Nota: Em alguns aparelhos o sensor de luz é atualizado apenas quando há uma mudança significativa na luminosidade.
+            </string>
+      <string original="Simple">Simples</string>
+    </translation>
+    <translation locale="tr">
+      <title>Işık</title>
+      <category>Ham Sensörler</category>
+      <description>Işık sensöründen ham veri alın.</description>
+      <string original="Graph">Grafik</string>
+      <string original="Illuminance">Aydınlık</string>
+      <string original="Info">
+                Dikkat: Bazı cihazlarda, ışık sensörü yalnızca aşırı bir aydınlık değişimi olduğunda güncellenir.
+            </string>
+      <string original="Simple">Basit</string>
+    </translation>
+    <translation locale="zh_Hant">
+      <title>光</title>
+      <category>原始感測器</category>
+      <description>由光感測器得原始數據。</description>
+      <string original="Graph">圖表</string>
+      <string original="Illuminance">照度</string>
+      <string original="Info">
+                注意：在一些裝置上，光感測器只在有大的明亮度變化時才會更新數據。
+            </string>
+      <string original="Simple">簡易</string>
+    </translation>
+    <translation locale="fr">
+      <title>Luminosité</title>
+      <category>Capteurs</category>
+      <description>Données brutes du capteur de lumière.</description>
+      <string original="Graph">Graphe</string>
+      <string original="Illuminance">Éclairement lumineux</string>
+      <string original="Info">
+                Note : sur certains smartphone, le capteur de lumière ne met à jour sa mesure qu'en cas de grande variation d'intensité lumineuse.
+            </string>
+      <string original="Simple">Composantes</string>
+    </translation>
+    <translation locale="vi">
+      <title>Ánh sáng</title>
+      <category>Cảm biến thô</category>
+      <description>Lấy dữ liệu thô từ cảm biến ánh sáng.</description>
+      <string original="Graph">Đồ thị</string>
+      <string original="Illuminance">Độ sáng</string>
+      <string original="Info">
+                Lưu ý: Trên một số thiết bị, cảm biến ánh sáng chỉ được cập nhật khi có sự thay đổi độ sáng.
+            </string>
+      <string original="Simple">Đơn giản</string>
+    </translation>
+    <translation locale="zh_Hans">
+      <title>亮度</title>
+      <category>原始传感器</category>
+      <description>从光传感器获取原始数据。</description>
+      <string original="Graph">图表</string>
+      <string original="Illuminance">照度</string>
+      <string original="Info">
+                注意：在一些装置上，光传感器只有出现大的亮度变化时才会更新数据。
+            </string>
+      <string original="Simple">简明值</string>
+    </translation>
+    <translation locale="sr">
+      <title>Svetlost</title>
+      <category>Senzori</category>
+      <description>Preuzmite neobrađene podatke iz svetlosn0og senzora.</description>
+      <string original="Graph">Grafik</string>
+      <string original="Illuminance">Osvetljenost</string>
+      <string original="Info">
+                Napomena: Na nekim uređajima svetlosni senzor se ažurira isključivo kada postoji gruba promena osvetljenosti.
+            </string>
+      <string original="Simple">Jednostavno</string>
+    </translation>
+    <translation locale="sr_Latn">
+      <title>Svetlost</title>
+      <category>Senzori</category>
+      <description>Preuzmite neobrađene podatke iz svetlosn0og senzora.</description>
+      <string original="Graph">Grafik</string>
+      <string original="Illuminance">Osvetljenost</string>
+      <string original="Info">
+                Napomena: Na nekim uređajima svetlosni senzor se ažurira isključivo kada postoji gruba promena osvetljenosti.
+            </string>
+      <string original="Simple">Jednostavno</string>
+    </translation>
+    <translation locale="es">
+      <title>Luz</title>
+      <category>Sensores</category>
+      <description>Obtenga datos sin procesar del sensor de luz.</description>
+      <string original="Graph">Gráfico</string>
+      <string original="Illuminance">Iluminancia</string>
+      <string original="Info">
+                Nota: En algunos dispositivos, el sensor de luz solo se actualiza cuando hay un cambio brusco de iluminancia.
+            </string>
+    </translation>
+    <translation locale="ka">
+      <title>სინათლე</title>
+      <category>დაუმუშავებელი სენსორები</category>
+      <description>მიიღე დაუმუშავებელი მონაცემები სინათლის სენსორისგან.</description>
+      <string original="Graph">გრაფიკი</string>
+      <string original="Illuminance">ლუმინესცენცია</string>
+      <string original="Info">
+                ყურადღება მიაქციე, რომ ზოგ ტელეფონში სინათლის სენსორის განახლება მხოლოდ უხეშ ცვლილებაზე ხდება.
+            </string>
+      <string original="Simple">მარტივი</string>
+    </translation>
+    <translation locale="hi">
+      <title>प्रकाश</title>
+      <category>रॉ सेंसर</category>
+      <description>प्रकाश सेंसर से कच्चा डाटा प्राप्त करें |</description>
+      <string original="Graph">ग्राफ</string>
+      <string original="Illuminance">प्रकाश तीव्रता</string>
+      <string original="Info">
+                नोट: कुछ उपकरणों पर प्रकाश संवेदक (सेंसर) केवल तभी अपडेट किया जाता है जब रोशनी में बड़ा परिवर्तन होता है।
+            </string>
+      <string original="Simple">साधारण (सामान्य)</string>
+    </translation>
+    <translation locale="ta">
+      <title>ஒளி</title>
+      <category>மூல உணர்விகள்</category>
+      <description>ஒளி உணர்வியிலிருந்து மூலத் தரவைப் பெறுங்கள்.</description>
+      <string original="Graph">வரைபடம்</string>
+      <string original="Illuminance">ஒளிர்வு</string>
+      <string original="Info">
+                குறிப்பு: சில சாதனங்களில் ஒளி உணரி வெளிச்சத்தில் குறிப்பிட்ட மாற்றம் இருக்கும்போது மட்டுமே புதுப்பிக்கப்படும்.
+            </string>
+      <string original="Simple">எளிமையான</string>
+    </translation>
+    <translation locale="bn">
+      <string original="Illuminance">আলোকীয়  তীব্রতা</string>
+    </translation>
+    <translation locale="gu">
+      <title>લાઈટ</title>
+      <category>રો સેન્સર</category>
+      <description>લાઇટ સેન્સરમાંથી કાચો ડેટા મેળવો.</description>
+      <string original="Graph">આલેખ</string>
+      <string original="Illuminance">પ્રકાશિત (ઇલ્યૂમિનેશન)</string>
+      <string original="Info">
+                નોંધ: કેટલાક ઉપકરણો પર લાઇટ સેન્સર ફક્ત ત્યારે જ અપડેટ થાય છે જ્યારે પ્રકાશમાં થોડો ફેરફાર થાય છે.
+            </string>
+      <string original="Simple">સિમ્પલ</string>
+    </translation>
+    <translation locale="kn"/>
+    <translation locale="or"/>
+    <translation locale="ko">
+      <title>빛</title>
+      <category>기본 센서 (raw sensors)</category>
+      <description>광센서에서 원 데이터를 가져옵니다.</description>
+      <string original="Graph">그래프</string>
+      <string original="Illuminance">조도</string>
+      <string original="Info">
+                주의: 일부 장치에서는 조도가 크게 변하는 경우에만 광센서가 업데이트됩니다.
+            </string>
+      <string original="Simple">단순</string>
+    </translation>
+  </translations>
+  <data-containers>
+    <container size="0" init="2.1574E4,2.1303E4,2.1484E4,2.6377E4,3.0202E4,3.0764E4,3.0938E4,3.0649E4,2.9931E4,2.907E4,2.827E4,2.7408E4,2.651E4,2.5668E4,2.497E4,2.4375E4,2.3866E4,2.3469E4,2.3194E4,2.3098E4,2.3091E4,2.304E4,2.291E4,2.262E4,2.2294E4,2.2051E4,2.2E4,2.2063E4,2.2113E4,2.2079E4,2.2048E4,2.2117E4,2.2234E4,2.231E4,2.2315E4,2.2287E4,2.2242E4,2.2171E4,2.2092E4,2.2023E4,2.1995E4,2.2038E4,2.221E4,2.2517E4,2.2914E4,2.3303E4,2.362E4,2.389E4,2.4191E4,2.4567E4,2.4964E4,2.5343E4,2.5685E4,2.5995E4,2.6229E4,2.6393E4,2.6453E4,2.6479E4,2.6502E4,2.6483E4,2.6449E4,2.6332E4,2.6045E4,2.5615E4,2.5207E4,2.4925E4,2.4766E4,2.4741E4,2.4816E4,2.494E4,2.4957E4,2.493E4,2.4969E4,2.5091E4,2.5112E4,2.4929E4,2.4577E4,2.4155E4,2.3686E4,2.3228E4,2.2855E4,2.2573E4,2.2312E4,2.2017E4,2.1695E4,2.1369E4,2.1076E4,2.0932E4,2.0905E4,2.0858E4,2.0838E4,2.0733E4,2.0519E4,2.0321E4,2.019E4,2.0101E4,2.002E4,1.991E4,1.977E4,1.9608E4,1.9479E4,1.9423E4,1.9403E4,1.9341E4,1.918E4,1.9016E4,1.8969E4,1.9074E4,1.9301E4,1.9568E4,1.9822E4,2.003E4,2.02E4,2.0378E4,2.0567E4,2.07E4,2.0721E4,2.0634E4,2.0569E4,2.0524E4,2.0491E4,2.0385E4,2.0169E4,1.9951E4,1.9917E4,2.0098E4,2.0355E4,2.0516E4,2.0572E4,2.0584E4,2.0657E4,2.0898E4,2.1364E4,2.1908E4,2.2255E4,2.227E4,2.2005E4,2.1665E4,2.1425E4,2.1335E4,2.1332E4,2.1299E4,2.127E4,2.1118E4,2.0816E4,2.0444E4,2.0072E4,1.9776E4,1.9683E4,1.9805E4,1.9966E4,1.9956E4,1.9813E4,1.9744E4,1.9807E4,1.9917E4,2.0004E4,2.0123E4,2.0273E4,2.0422E4,2.0542E4,2.0644E4,2.0741E4,2.0813E4,2.0866E4,2.0922E4,2.1042E4,2.1245E4,2.1554E4,2.1952E4,2.2411E4,2.2883E4,2.3318E4,2.3662E4,2.3912E4,2.4123E4,2.4366E4,2.4656E4,2.496E4,2.5249E4,2.5535E4,2.58E4,2.603E4,2.6207E4,2.6257E4,2.6168E4,2.5954E4,2.5752E4,2.5611E4,2.5531E4,2.558E4,2.5759E4,2.6042E4,2.6303E4,2.6478E4,2.6624E4,2.6827E4,2.7147E4,2.7398E4,2.7394E4,2.7094E4,2.6684E4,2.6306E4,2.5989E4,2.5719E4,2.5599E4,2.5586E4,2.5524E4,2.5438E4,2.5196E4,2.4934E4,2.4755E4,2.4741E4,2.4889E4,2.4993E4,2.4835E4,2.4446E4,2.4101E4,2.3955E4,2.3894E4,2.3758E4,2.3694E4,2.392E4,2.4458E4,2.5077E4,2.5474E4,2.5539E4,2.5319E4,2.4963E4,2.4676E4,2.4645E4,2.4898E4,2.5325E4,2.5725E4,2.5952E4,2.6005E4,2.6063E4,2.6087E4,2.602E4,2.5962E4,2.5723E4,2.524E4,2.4719E4,2.4263E4,2.3839E4,2.3463E4,2.3219E4,2.3125E4,2.3194E4,2.3366E4,2.3516E4,2.3483E4,2.3265E4,2.2988E4,2.2737E4,2.2522E4,2.2403E4,2.2343E4,2.2321E4,2.2272E4,2.2175E4,2.2002E4,2.1794E4,2.1577E4,2.1412E4,2.1325E4,2.129E4,2.126E4,2.1262E4,2.1281E4,2.1363E4,2.1433E4,2.143E4,2.1391E4,2.1369E4,2.136E4,2.1335E4,2.127E4,2.116E4,2.1014E4,2.0841E4,2.066E4,2.0512E4,2.0431E4,2.0389E4,2.0338E4,2.0287E4,2.0257E4,2.0278E4,2.0332E4,2.0428E4,2.0568E4,2.0712E4,2.0831E4,2.0945E4,2.1107E4,2.1332E4,2.1597E4,2.1856E4,2.2113E4,2.2386E4,2.268E4,2.2961E4,2.3215E4,2.3484E4,2.38E4,2.4189E4,2.4654E4,2.5126E4,2.5541E4,2.5941E4,2.646E4,2.7086E4,2.7625E4,2.7956E4,2.8168E4,2.8423E4,2.8754E4,2.9114E4,2.9273E4,2.9187E4,2.9113E4,2.9579E4,3.0779E4,3.2555E4,3.4854E4,3.7324E4,3.964E4,4.1355E4,4.2522E4,4.3231E4,4.3601E4,4.379E4,4.3889E4,4.3958E4,4.3986E4,4.4021E4,4.4161E4,4.4422E4,4.453E4,4.438E4,4.396E4,4.347E4,4.2812E4,4.1963E4,4.1277E4,4.0901E4,4.0848E4,4.092E4,4.089E4,4.0716E4,4.0149E4,3.9081E4,3.7849E4,3.658E4,3.5378E4,3.4407E4,3.379E4,3.3292E4,3.2591E4,3.1584E4,3.0627E4,2.9939E4,2.9548E4,2.9308E4,2.9112E4,2.8875E4,2.8607E4,2.8348E4,2.8215E4,2.8227E4,2.8349E4,2.8528E4,2.8722E4,2.89E4,2.9018E4,2.8916E4,2.8523E4,2.8047E4,2.7794E4,2.7785E4,2.7713E4,2.774E4,2.7799E4,2.7789E4,2.773E4,2.7712E4,2.76E4,2.7348E4,2.7136E4,2.7158E4,2.7447E4,2.7837E4,2.7959E4,2.7784E4,2.7407E4,2.7038E4,2.6735E4,2.6494E4,2.6248E4,2.593E4,2.5459E4,2.4847E4,2.4122E4,2.3334E4,2.2511E4,2.1717E4,2.1121E4,2.0792E4,2.0617E4,2.0419E4,2.0108E4,1.9717E4,1.926E4,1.8749E4,1.8273E4,1.7845E4,1.729E4,1.6712E4,1.6199E4,1.5937E4,1.5757E4,1.5585E4,1.5401E4,1.5208E4,1.4976E4,1.4709E4,1.4459E4,1.4318E4,1.4302E4,1.4295E4,1.4286E4,1.428E4,1.4207E4,1.4085E4,1.3992E4,1.3945E4,1.3919E4,1.3897E4,1.3854E4,1.3823E4,1.3805E4,1.3797E4,1.3788E4,1.3763E4,1.3687E4,1.3591E4,1.3508E4,1.3463E4,1.3448E4,1.3459E4,1.3491E4,1.3544E4,1.3601E4,1.366E4,1.3726E4,1.381E4,1.3911E4,1.4024E4,1.4154E4,1.4299E4,1.4456E4,1.462E4,1.4769E4,1.4844E4,1.4819E4,1.4711E4,1.4578E4,1.4466E4,1.4386E4,1.4358E4,1.4375E4,1.4415E4,1.4439E4,1.4421E4,1.4374E4,1.4309E4,1.4242E4,1.4179E4,1.4133E4,1.4112E4,1.4107E4,1.4103E4,1.4094E4,1.4069E4,1.4019E4,1.3964E4,1.3908E4,1.3857E4,1.3808E4,1.3763E4,1.373E4,1.3697E4,1.3664E4,1.3616E4,1.3565E4,1.3523E4,1.3494E4,1.3487E4,1.348E4,1.3485E4,1.3488E4,1.3487E4,1.3489E4,1.3488E4,1.3484E4,1.3489E4,1.3506E4,1.3514E4,1.3491E4,1.3458E4,1.3448E4,1.3471E4,1.3505E4,1.3522E4,1.3516E4,1.3487E4,1.3448E4,1.3412E4,1.3384E4,1.335E4,1.3293E4,1.3221E4,1.3141E4,1.3051E4,1.2953E4,1.2879E4,1.2842E4,1.2835E4,1.2829E4,1.2824E4,1.282E4,1.2822E4,1.2825E4,1.2829E4,1.2832E4,1.2836E4,1.2846E4,1.2862E4,1.2878E4,1.2887E4,1.2889E4,1.2892E4,1.29E4,1.291E4,1.2922E4,1.2934E4,1.2948E4,1.2957E4,1.2967E4,1.2973E4,1.2983E4,1.299E4,1.2993E4,1.299E4,1.2986E4,1.2988E4,1.299E4,1.2995E4,1.2999E4,1.3002E4,1.3004E4,1.3007E4,1.3009E4,1.3013E4,1.3019E4,1.3028E4,1.3042E4,1.3051E4,1.3057E4,1.3056E4,1.3059E4,1.3065E4,1.3068E4,1.3065E4,1.3068E4,1.3065E4,1.3059E4,1.3054E4,1.3055E4,1.3058E4,1.3072E4,1.3104E4,1.315E4,1.3196E4,1.3223E4,1.3229E4,1.321E4,1.316E4,1.3085E4,1.2999E4,1.2929E4,1.2888E4,1.2871E4,1.2849E4,1.2797E4,1.2714E4,1.2624E4,1.2567E4,1.2545E4,1.2562E4,1.2584E4,1.2607E4,1.2623E4,1.263E4,1.2607E4,1.2561E4,1.2504E4,1.2469E4,1.246E4,1.2474E4,1.2501E4,1.2519E4,1.253E4,1.2526E4,1.2513E4,1.2488E4,1.2455E4,1.2424E4,1.2404E4,1.2401E4,1.241E4,1.2408E4,1.2392E4,1.2375E4,1.2371E4,1.2382E4,1.2398E4,1.2419E4,1.2439E4,1.2459E4,1.2491E4,1.2558E4,1.2606E4,1.2616E4,1.2567E4,1.2506E4,1.2432E4,1.2355E4,1.228E4,1.2188E4,1.2045E4,1.1863E4,1.1705E4,1.1598E4,1.1536E4,1.1496E4,1.1477E4,1.1482E4,1.1509E4,1.1546E4,1.1555E4,1.1503E4,1.1405E4,1.1318E4,1.1281E4,1.1282E4,1.1277E4,1.1272E4,1.1109E4,1.0959E4,1.0892E4,1.0867E4,1.0901E4,1.091E4,1.0913E4,1.0888E4,1.0881E4,1.0878E4,1.0876E4,1.0867E4,1.0869E4,1.0871E4,1.0877E4,1.0881E4,1.0893E4,1.091E4,1.0932E4,1.0941E4,1.0927E4,1.0921E4,1.0917E4,1.0921E4,1.0924E4,1.0931E4,1.0941E4,1.0946E4,1.0949E4,1.0959E4,1.0968E4,1.0973E4,1.0977E4,1.098E4,1.0983E4,1.0997E4,1.1012E4,1.1027E4,1.1042E4,1.1065E4,1.1092E4,1.1122E4,1.1147E4,1.1172E4,1.1182E4,1.1186E4,1.1181E4,1.1178E4,1.1172E4">illum</container>
+    <container size="0" init="6.315825E-3,4.8854106E-2,1.00881684E-1,1.24897895E-1,1.48910434E-1,1.72921411E-1,2.00930122E-1,2.48945747E-1,2.72952192E-1,3.00960473E-1,3.2497934E-1,3.48992583E-1,3.7300188E-1,4.01018715E-1,4.25035044E-1,4.49051919E-1,4.73059106E-1,5.01077309E-1,5.25092895E-1,5.49110708E-1,5.73133012E-1,6.01158637E-1,6.49188676E-1,6.73203442E-1,7.01225903E-1,7.25250669E-1,7.49274262E-1,8.01318364E-1,8.253427E-1,8.73369653E-1,9.01390473E-1,9.4942563E-1,9.73444458E-1,1.001462075E0,1.02547563E0,1.073497192E0,1.101515864E0,1.125533051E0,1.149556294E0,1.173573598E0,1.201600278E0,1.249631411E0,1.273640317E0,1.30165727E0,1.325670239E0,1.349685044E0,1.373706723E0,1.401725512E0,1.425738989E0,1.44975852E0,1.473764536E0,1.501766372E0,1.525772426E0,1.54978352E0,1.573796333E0,1.601813051E0,1.625819653E0,1.649824809E0,1.673825551E0,1.701831801E0,1.725843208E0,1.749855278E0,1.773862895E0,1.801879458E0,1.825896137E0,1.849906098E0,1.877911958E0,1.901923403E0,1.949935239E0,1.977939067E0,2.001950161E0,2.049964965E0,2.101982505E0,2.12598395E0,2.149991176E0,2.20199813E0,2.226002856E0,2.250014809E0,2.278033676E0,2.302055708E0,2.326080278E0,2.35009645E0,2.378117583E0,2.402134887E0,2.426145005E0,2.450156372E0,2.47816309E0,2.502172426E0,2.526180356E0,2.550178364E0,2.578172114E0,2.602184067E0,2.62618852E0,2.650190551E0,2.67820145E0,2.702215434E0,2.72622063E0,2.754236919E0,2.77824184E0,2.802254145E0,2.826262895E0,2.8542702E0,2.902289731E0,2.954317036E0,2.978330473E0,3.002337739E0,3.026349419E0,3.078389731E0,3.102405239E0,3.126412895E0,3.154430161E0,3.178445161E0,3.202458364E0,3.226471997E0,3.25448602E0,3.278501684E0,3.30251477E0,3.354535434E0,3.378550473E0,3.4025602E0,3.426578286E0,3.454590864E0,3.478600864E0,3.502610551E0,3.526616528E0,3.578626997E0,3.602631137E0,3.626643169E0,3.65466059E0,3.678672895E0,3.70268434E0,3.726694145E0,3.7547052E0,3.778719223E0,3.802730708E0,3.826739184E0,3.87877684E0,3.902788637E0,3.926803364E0,3.954820903E0,3.978837192E0,4.002857583E0,4.030880708E0,4.054894184E0,4.078907426E0,4.102923989E0,4.130942778E0,4.15495563E0,4.178965942E0,4.230996176E0,4.25500977E0,4.303054301E0,4.331067075E0,4.355073325E0,4.403087739E0,4.431094145E0,4.455108325E0,4.479117817E0,4.503131762E0,4.531143012E0,4.555160044E0,4.579176528E0,4.603190317E0,4.631215005E0,4.655232309E0,4.679252192E0,4.703279301E0,4.731307895E0,4.755329301E0,4.779349458E0,4.803369067E0,4.831391606E0,4.855400825E0,4.879415161E0,4.903430942E0,4.931451567E0,4.955461919E0,4.97947063E0,5.00348477E0,5.031501059E0,5.055514848E0,5.079527895E0,5.103536801E0,5.131559458E0,5.155586411E0,5.203625434E0,5.23165102E0,5.25566938E0,5.279679614E0,5.303691919E0,5.355724536E0,5.379750239E0,5.403771528E0,5.431791567E0,5.455804184E0,5.479822465E0,5.507840512E0,5.531860317E0,5.555878989E0,5.60789563E0,5.63190184E0,5.655909419E0,5.679921098E0,5.707940747E0,5.731950942E0,5.755956411E0,5.779968208E0,5.807982153E0,5.855986255E0,5.880000278E0,5.908010356E0,5.932025786E0,5.956032622E0,6.008058325E0,6.032060239E0,6.080073637E0,6.108080395E0,6.132084301E0,6.1560877E0,6.180104731E0,6.208119536E0,6.232133481E0,6.28016102E0,6.308177934E0,6.332190942E0,6.356207778E0,6.380225122E0,6.432245473E0,6.456254614E0,6.480263364E0,6.508281801E0,6.55630813E0,6.580313208E0,6.608318169E0,6.632334262E0,6.656354653E0,6.680368247E0,6.708388208E0,6.732401723E0,6.756413755E0,6.784423794E0,6.808437817E0,6.83245477E0,6.85647395E0,6.884492973E0,6.908507895E0,6.932521801E0,6.956529848E0,7.008561762E0,7.032573872E0,7.056584536E0,7.108587778E0,7.132578872E0,7.156588559E0,7.184604419E0,7.208617348E0,7.232637973E0,7.256649536E0,7.284658559E0,7.308668794E0,7.332676528E0,7.356685395E0,7.384698755E0,7.408710825E0,7.432713403E0,7.456720825E0,7.484732739E0,7.50873477E0,7.53273309E0,7.556738833E0,7.584750083E0,7.608762934E0,7.65677313E0,7.684779809E0,7.708782075E0,7.732799731E0,7.756809809E0,7.784815981E0,7.808813598E0,7.832816489E0,7.856817153E0,7.884822661E0,7.908822348E0,7.93282434E0,7.960830317E0,7.984832231E0,8.00883688E0,8.032841723E0,8.084850747E0,8.108864926E0,8.132869809E0,8.160876137E0,8.18488145E0,8.208890083E0,8.232904926E0,8.260927348E0,8.284946762E0,8.308963325E0,8.332978872E0,8.36097895E0,8.384973208E0,8.408973208E0,8.432976684E0,8.460982153E0,8.48498645E0,8.508988715E0,8.532986333E0,8.560977973E0,8.584976919E0,8.608972387E0,8.632972426E0,8.660971567E0,8.684974067E0,8.708964575E0,8.736960903E0,8.760955747E0,8.784953247E0,8.808954184E0,8.836959223E0,8.860968442E0,8.908980981E0,8.936991606E0,8.984993794E0,9.008998247E0,9.037002739E0,9.061006333E0,9.085000864E0,9.108999848E0,9.137006684E0,9.161022036E0,9.185032114E0,9.209042036E0,9.23705352E0,9.261058637E0,9.285069106E0,9.309071059E0,9.337070356E0,9.361076137E0,9.385086723E0,9.409095083E0,9.461107075E0,9.485116098E0,9.509124028E0,9.537128208E0,9.561134184E0,9.585141528E0,9.609150512E0,9.637151606E0,9.685167426E0,9.71317059E0,9.737164926E0,9.761156801E0,9.785162036E0,9.813170747E0,9.837179536E0,9.861182465E0,9.885181645E0,9.913181372E0,9.937184692E0,9.961191098E0,9.985203403E0,1.001321254E1,1.003721387E1,1.006122336E1,1.008523735E1,1.011325309E1,1.013726094E1,1.01612645E1,1.018526126E1,1.021325368E1,1.026125735E1,1.028527282E1,1.031327055E1,1.033726958E1,1.036127051E1,1.038527672E1,1.043728172E1,1.046128305E1,1.048528016E1,1.051328469E1,1.053728622E1,1.056129438E1,1.058931102E1,1.061331797E1,1.06373286E1,1.066133403E1,1.068933676E1,1.071334657E1,1.073735981E1,1.076136996E1,1.081336758E1,1.083736899E1,1.086137172E1,1.088936864E1,1.09373602E1,1.096135649E1,1.098935239E1,1.101334293E1,1.103733672E1,1.106134227E1,1.108934606E1,1.111335801E1,1.113736246E1,1.116136461E1,1.11893734E1,1.121338262E1,1.123738563E1,1.12613852E1,1.128938586E1,1.131338348E1,1.133737754E1,1.136537418E1,1.138936571E1,1.141336133E1,1.143735145E1,1.146534192E1,1.148933805E1,1.151333215E1,1.153732969E1,1.156532196E1,1.158931395E1,1.161330914E1,1.163730809E1,1.166530711E1,1.168931672E1,1.171331516E1,1.173731485E1,1.176531258E1,1.178930344E1,1.181329832E1,1.183727993E1,1.186526891E1,1.188926282E1,1.191325387E1,1.193724993E1,1.196525028E1,1.198925668E1,1.201326083E1,1.20372661E1,1.206528348E1,1.208929477E1,1.21132986E1,1.213730868E1,1.216532059E1,1.218931911E1,1.221331563E1,1.224131688E1,1.226531235E1,1.228930766E1,1.231330126E1,1.236530516E1,1.238931524E1,1.241331914E1,1.24413318E1,1.246535227E1,1.248936852E1,1.251338164E1,1.254139821E1,1.256541559E1,1.258941825E1,1.261343368E1,1.264145579E1,1.26654868E1,1.268951414E1,1.27135334E1,1.276555008E1,1.278955993E1,1.281357258E1,1.284157829E1,1.2865582E1,1.288958317E1,1.294159692E1,1.296560524E1,1.29896145E1,1.304163438E1,1.306563661E1,1.308964856E1,1.311766278E1,1.314167161E1,1.316567403E1,1.318968059E1,1.321768864E1,1.324169727E1,1.32657068E1,1.3289722E1,1.331773473E1,1.334175016E1,1.33657552E1,1.338975473E1,1.341774586E1,1.344173512E1,1.346573563E1,1.348973981E1,1.351774372E1,1.354174391E1,1.356574934E1,1.358975262E1,1.361774618E1,1.364174266E1,1.366574305E1,1.371774997E1,1.374174833E1,1.381773817E1,1.391773012E1,1.394172301E1,1.399372934E1,1.404174301E1,1.406574473E1,1.409374246E1,1.414174418E1,1.4165737E1,1.41937368E1,1.424173567E1,1.426573508E1,1.429375477E1,1.434176629E1,1.436576958E1,1.439377856E1,1.441778754E1,1.444179344E1,1.446579786E1,1.449381219E1,1.451782379E1,1.454183965E1,1.456585153E1,1.459386458E1,1.461787161E1,1.464187356E1,1.466586926E1,1.469386895E1,1.471786258E1,1.474185672E1,1.484186614E1,1.486586969E1,1.489387309E1,1.491787876E1,1.494188172E1,1.496988833E1,1.499389055E1,1.501789723E1,1.504190102E1,1.506990876E1,1.514188958E1,1.51698754E1,1.519387719E1,1.521788547E1,1.524188524E1,1.526989442E1,1.529389551E1,1.53178934E1,1.534189411E1,1.536989102E1,1.539388043E1,1.541787938E1,1.546987E1,1.549385731E1,1.554183934E1,1.556983403E1,1.559383372E1,1.561783524E1,1.564183711E1,1.566982821E1,1.571782333E1,1.574581301E1,1.576980766E1,1.579379426E1,1.581778133E1,1.584576383E1,1.586976137E1,1.589376614E1,1.59457759E1,1.596977829E1,1.601777852E1,1.604577231E1,1.61177252E1,1.61696845E1,1.624565133E1,1.626964606E1,1.629363536E1,1.634561664E1,1.636960493E1,1.639359336E1,1.642158954E1,1.64455743E1,1.646955868E1,1.649354727E1,1.652153852E1,1.65695179E1,1.659350805E1,1.66214904E1,1.664547508E1,1.66694593E1,1.669344E1,1.672141305E1,1.674539227E1,1.676937559E1,1.679336262E1,1.682135227E1,1.684534461E1,1.68693409E1,1.692134329E1,1.694534626E1,1.696934133E1,1.699734168E1,1.70213359E1,1.706932996E1,1.709732543E1,1.712132399E1,1.714532204E1,1.716932004E1,1.722131547E1,1.72453136E1,1.726931387E1,1.729731016E1,1.734530778E1,1.73693095E1,1.739730903E1,1.742131282E1,1.74453079E1,1.746930227E1,1.749729879E1,1.75453127E1,1.7597297E1,1.762129782E1,1.764529774E1,1.767330516E1,1.772130817E1,1.774530762E1,1.777329204E1,1.779728825E1,1.782128391E1,1.784528254E1,1.787327426E1,1.789727227E1,1.792126583E1,1.797325106E1,1.799723989E1,1.802123379E1,1.804522626E1,1.807321813E1,1.809722512E1,1.812123379E1,1.814523098E1,1.817322122E1,1.819721629E1,1.822121528E1,1.824521012E1,1.827320622E1,1.832118926E1,1.834918481E1,1.837317227E1,1.839716661E1,1.844915786E1,1.847314606E1,1.849713204E1,1.85211279E1,1.857312313E1,1.859711676E1,1.862111086E1,1.864910309E1,1.867308711E1,1.869706911E1,1.872104746E1,1.874902477E1,1.87730025E1,1.879698911E1,1.8820987E1,1.884899192E1,1.88729884E1,1.889697528E1,1.892097164E1,1.897296243E1,1.899696293E1,1.90249559E1,1.904895028E1,1.907293575E1,1.909692133E1,1.912489907E1,1.914888563E1,1.922485082E1,1.924885532E1,1.927285114E1,1.932483086E1,1.937280188E1,1.93967868E1,1.942476418E1,1.944874965E1,1.947273708E1,1.949673692E1,1.952473622E1,1.954872766E1,1.957272122E1,1.959671235E1,1.962471047E1,1.964870653E1,1.967271336E1,1.9700717E1,1.972471672E1,1.974871297E1,1.977271454E1,1.980071364E1,1.982472254E1,1.98487204E1,1.987272098E1,1.990071973E1,1.994869735E1,1.997268446E1,2.000066914E1">illum_time</container>
+  </data-containers>
+  <input>
+    <sensor type="light">
+      <output component="x">illum</output>
+      <output component="t">illum_time</output>
+    </sensor>
+  </input>
+  <views>
+    <view label="Graph">
+      <graph label="Illuminance" timeOnX="true" labelX="[[quantity_short_time]]" unitX="[[unit_short_second]]" labelY="[[quantity_short_illuminance]]" unitY="[[unit_short_lux]]" partialUpdate="true">
+        <input axis="x">illum_time</input>
+        <input axis="y">illum</input>
+      </graph>
+      <separator height="1"/>
+      <info label="Info"/>
+    </view>
+    <view label="Simple">
+      <value label="Illuminance" size="2" precision="1" unit="[[unit_short_lux]]">
+        <input>illum</input>
+      </value>
+    </view>
+  </views>
+  <export>
+    <set name="Raw Data">
+      <data name="Time (s)">illum_time</data>
+      <data name="Illuminance (lx)">illum</data>
+    </set>
+  </export>
+<state-title>2026-11-11_1256</state-title><color>blue</color><events><start experimentTime="0.0" systemTime="1794390989113"/><pause experimentTime="20.038210703" systemTime="1794391009151"/></events></phyphox>
